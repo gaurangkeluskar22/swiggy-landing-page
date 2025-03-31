@@ -33,7 +33,7 @@ const HeroSection = () => {
             <span className='text-white text-5xl herosection-text z-1 pt-20'>Order food & groceries. Discover best restaurants. Swiggy it</span>
             <img src={LeftImg} className='absolute left-img'/>
             <img src={RightImg} className='absolute right-img'/>
-                <div className='w-100 h-12 bg-white mt-10 mb-5 rounded-xl'>
+                <div className='w-100 h-12 bg-white mt-10 mb-5 rounded-xl z-1'>
                     <input type='text' placeholder='Search for restaurant, items or more' className='w-full h-full outline-none p-5'></input>
                 </div>
             
