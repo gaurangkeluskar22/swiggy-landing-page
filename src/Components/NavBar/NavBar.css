@@ -1,0 +1,22 @@
+.navbar{
+    background: rgb(255, 82, 0);
+}
+
+.navbar-wrapper{
+    background-color: rgb(255, 82, 0);
+    margin: 0 auto;
+    width: 80%;
+    padding: 1rem 0;
+}
+
+.navbar-wrapper ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    color: white;
+    font-weight: 700;
+    font-size: 1rem;
+
+    
+}

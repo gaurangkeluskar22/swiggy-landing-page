@@ -1,0 +1,27 @@
+
+
+.herosection-wrapper{
+    background-color: rgb(255, 82, 0);
+    height: max-content;
+    
+}
+
+.herosection-text{
+    font-size: 3rem;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Gilroy, arial, Helvetica Neue, sans-serif;
+}
+
+.left-img{
+    top: 0;
+    left: 0;
+    height: 90%;
+}
+
+.right-img{
+    top: 0;
+    right: 0;
+    height: 90%;
+}
